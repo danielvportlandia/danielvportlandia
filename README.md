@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](./mesa-black-and-white.jpg "Header")](http://daniel-shelton.com)
+[![Header](./mesa-header.jpg "Header")](http://daniel-shelton.com)
 
 <!--
 **danielvportlandia/danielvportlandia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
