@@ -75,4 +75,4 @@
 
 <!-- Actual text -->
 
-You can find me on LinkedIn <a href="https://www.linkedin.com/in/daniel-w-shelton/"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" width="30px"></a>
+You can find me on <a href="https://www.linkedin.com/in/daniel-w-shelton/">LinkedIn</a>.
