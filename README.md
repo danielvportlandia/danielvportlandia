@@ -9,9 +9,9 @@
 
 ### 📲 Currently working full-time as a React Native developer
 
-### 🌱 Learning Ruby on Rails
+### 🌱 Learning native Android development with Kotlin
 
-### 🇩🇪 Improving my German language skills
+### 🐍 Also learning Python
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielvportlandia&count_private=true&show_icons=true&theme=radical&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
 
